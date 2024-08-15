@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1d00bd09-c258-4615-9406-c6ab2a7385aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Test_Parser.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/parser.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +31,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.BAZA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.NEW_BAZA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TEST.executor&quot;: &quot;Run&quot;,
-    &quot;Python.UTIMATE_BAZA.executor&quot;: &quot;Run&quot;,
-    &quot;Python.async_new.executor&quot;: &quot;Run&quot;,
-    &quot;Python.async_parser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new.executor&quot;: &quot;Run&quot;,
-    &quot;Python.new_opt_parser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.parser_opt.executor&quot;: &quot;Run&quot;,
-    &quot;Python.shoes_parser.executor&quot;: &quot;Run&quot;,
-    &quot;Python.solo_parser.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BAZA.executor": "Run",
+    "Python.NEW_BAZA.executor": "Run",
+    "Python.TEST.executor": "Run",
+    "Python.UTIMATE_BAZA.executor": "Run",
+    "Python.async_new.executor": "Run",
+    "Python.async_parser.executor": "Run",
+    "Python.new.executor": "Run",
+    "Python.new_opt_parser.executor": "Run",
+    "Python.parser.executor": "Run",
+    "Python.parser_opt.executor": "Run",
+    "Python.shoes_parser.executor": "Run",
+    "Python.solo_parser.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/solo/project_x"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
